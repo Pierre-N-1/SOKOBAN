@@ -1,6 +1,8 @@
 package code;
 
 public class objetmobile extends objet{
+	
+	String img;
 
 	public objetmobile(int x, int y) {
 		super(x, y);
