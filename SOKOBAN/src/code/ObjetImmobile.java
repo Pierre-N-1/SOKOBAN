@@ -1,6 +1,6 @@
 package code;
 
-public class ObjetImmobile extends objet{
+public class ObjetImmobile extends Objet{
 	
 	int m_type;
 

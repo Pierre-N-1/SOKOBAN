@@ -1,6 +1,6 @@
 package code;
 
-public class Caisse extends objetmobile {
+public class Caisse extends ObjetMobile {
 
 	public Caisse(int x, int y) {
 		super(x, y);

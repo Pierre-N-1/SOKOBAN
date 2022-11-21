@@ -1,6 +1,6 @@
 package code;
 
-public class Plateau extends objet {
+public class Plateau extends Objet {
 
 	int m_la, m_lo;
 	ObjetImmobile tab[][];

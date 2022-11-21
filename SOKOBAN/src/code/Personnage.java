@@ -1,6 +1,6 @@
 package code;
 
-public class Personnage extends objetmobile{
+public class Personnage extends ObjetMobile{
 	
 	String img;
 
