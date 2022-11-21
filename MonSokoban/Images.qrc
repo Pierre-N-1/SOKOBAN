@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Caisse/caisse.png</file>
+        <file>Caisse/caisseSurCible.png</file>
+        <file>Joueur/playerDown.png</file>
+        <file>Joueur/playerLeft.png</file>
+        <file>Joueur/playerRight.png</file>
+        <file>Joueur/playerUp.png</file>
+        <file>Autres/cible.png</file>
+        <file>Autres/mur.png</file>
+        <file>Autres/vide.png</file>
+        <file>Icones/menu.png</file>
+        <file>Icones/options.png</file>
+        <file>Icones/restart.png</file>
+        <file>Icones/retour.png</file>
+        <file>Icones/play.png</file>
+        <file>fleches.png</file>
+        <file>background.png</file>
+        <file>Icones/aide.png</file>
+        <file>menu.png</file>
+        <file>aideJeu.gif</file>
+    </qresource>
+</RCC>
